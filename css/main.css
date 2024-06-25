@@ -101,7 +101,7 @@ nav a img {
 .plus ul li a {
     position: relative;
   /* width: 90px; */
-  background-color: aliceblue;
+  /* background-color: aliceblue; */
   /* flex */
   display: flex;
   flex-direction: column;
